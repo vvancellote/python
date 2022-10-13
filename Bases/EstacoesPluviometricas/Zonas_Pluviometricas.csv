@@ -1,0 +1,34 @@
+﻿OBJECTID,Name,Endereço,Est,Cod,ShapeSTArea,ShapeSTLength
+1,Região 1,"Av. Niemeyer, 121",Vidigal,1,2553440.63545021,10752.168096116
+2,Região 2,"Av. Pasteur, 35",Urca,2,2746435.28097396,13636.1397150697
+3,Região 3,"Estrada da Gávea, 242",Rocinha,3,10665257.6052742,18616.4425653564
+4,Região 4,"Estrada do Sumaré, 670",Tijuca,4,11200253.2416144,14796.0071717329
+5,Região 5,"Rua Almirante Alexandrino, 1761",Santa Teresa,5,7901403.27500259,12116.4095517362
+6,Região 6,"Av. Atlântica, 4240",Copacabana,6,7422574.07262257,13793.0631743918
+7,Região 7,"Rua Professor Valadares, 262",Grajaú,7,19478976.480437,19309.1337364375
+8,Região 8,"Rua Orestes Barbosa, 229",Ilha do Governador,8,37337044.1201984,57467.13377667
+9,Região 9,"Largo da Penha, 19",Penha,9,29796200.5741241,36611.5979866351
+10,Região 10,"Largo da Penha, 19",Madureira,10,37382473.1176212,32071.8575279522
+11,Região 11,"Av. Brasil, 19001",Irajá,11,47351216.1865788,31439.8218904054
+12,Região 12,"Rua Fonseca, 534",Bangu,12,70212960.2323275,42652.1946335091
+13,Região 13,"Rua da Capela,96",Piedade,13,9978485.74248021,13215.4896173174
+14,Região 14,"Rua Godofredo Viana, 64",Jacarepaguá/Tanque,14,36958710.6016916,35106.5815673043
+15,Região 15,"Rua Sacadura Cabral, 178",Saúde,15,10769732.4038917,21502.8428305898
+16,Região 16,"Rua Jardim Botânico, 1003",Jardim Botânico,16,16322571.6043386,16599.3530464392
+17,Região 17,"Rua Major Rolinda da Silva, 65",Barra/Itanhangá,17,39417822.9141978,27004.752032862
+18,Região 18,"Estrada Mal. Salazar de Moraes, 1409",Jacarepaguá/Cidade de Deus,18,33334664.9949615,23927.5827273389
+19,Região 19,"Av. Salvador Allende, S/N",Barra/Rio Centro,19,48745443.5750247,33552.1432256558
+20,Região 20,"Estrada Barra de Guaratiba, 9140",Guaratiba,20,84997274.3029297,59178.029000141
+21,Região 21,"Avenida Menezes Cortes, 3245",Estrada Grajaú/Jacarepaguá,21,23233572.8035121,20804.2952434732
+22,Região 22,Praça Ruão s/nº,Santa Cruz,22,77580969.3796205,46703.9015246465
+23,Região 23,"Rua Tenente França, 141",Grande Méier,23,11619657.7707315,13551.0422405326
+24,Região 24,"Rua Antúria, 31",Anchieta,24,36415554.1361314,29201.9773896729
+25,Região 25,"Avenida das Américas, 459",Grota Funda,25,67954386.2957565,46992.8043641071
+26,Região 26,"Rua Eng. Trindade, 229",Campo Grande,26,127889502.841244,51055.9007214078
+27,Região 27,Rua do Império s/n,Sepetiba,27,108561085.095349,57572.9616267748
+28,Região 28,"Rua Boa Vista, 196",Alto da Boa Vista,28,21389820.2210102,19232.1526030715
+29,Região 29,"Estrada do Mendanha, 4842",Av. Brasil/Mendanha,29,76895342.1149139,49226.2924422171
+30,Região 30,"Avenida Baltazar da Silveira, 335",Recreio dos Bandeirantes,30,36666325.9685229,36223.4357222123
+31,Região 31,"Rua Cardoso Junior, 479",Laranjeiras,31,12449446.4017654,24168.0874736526
+32,Região 32,"Campo de São Cristóvão, 268",São Cristóvão,32,25249032.4819976,34828.5447542514
+33,Região 33,Praça Xavier de Brito,Tijuca/Muda,33,9443697.38444206,11732.5409409801
